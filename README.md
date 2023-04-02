@@ -1,1 +1,2 @@
-# EnderAvaritia.github.io
+here is nothing
+just a record of my life
