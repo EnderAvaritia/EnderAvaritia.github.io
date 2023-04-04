@@ -19,10 +19,14 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-      - name: Generate
-        uses: heowc/action-hexo@main
+      - name: Use Node.js
+        uses: actions/setup-node@v3
         with:
-          args: generate
+          args: ${{ matrix.node-version }}
+      - name: Build
+        run: |
+          npm install
+          npm build
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
