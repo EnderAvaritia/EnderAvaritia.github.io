@@ -105,3 +105,19 @@ deploy:
   type: git
   repo: https://github.com/EnderAvaritia/EnderAvaritia.github.io
   branch: gh-pages
+
+# hexo-generator-searchdb
+search:
+  path: search.xml
+  field: post
+  format: html
+
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
+  hub:
+  content:
+  content_limit: 140
+  content_limit_delim: " "
+  order_by: -date
