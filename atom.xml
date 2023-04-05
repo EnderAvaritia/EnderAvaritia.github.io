@@ -6,7 +6,7 @@
   <link href="https://enderavaritia.github.io/atom.xml" rel="self"/>
   
   <link href="https://enderavaritia.github.io/"/>
-  <updated>2023-04-05T08:16:25.408Z</updated>
+  <updated>2023-04-05T08:20:50.066Z</updated>
   <id>https://enderavaritia.github.io/</id>
   
   <author>
@@ -20,8 +20,8 @@
     <title>Hello World</title>
     <link href="https://enderavaritia.github.io/2023/04/05/hello-world/"/>
     <id>https://enderavaritia.github.io/2023/04/05/hello-world/</id>
-    <published>2023-04-05T08:16:25.408Z</published>
-    <updated>2023-04-05T08:16:25.408Z</updated>
+    <published>2023-04-05T08:20:50.066Z</published>
+    <updated>2023-04-05T08:20:50.066Z</updated>
     
     
       
@@ -29,27 +29,6 @@
         
         
     <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
-        
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>helloWorld</title>
-    <link href="https://enderavaritia.github.io/2023/04/03/helloWorld/"/>
-    <id>https://enderavaritia.github.io/2023/04/03/helloWorld/</id>
-    <published>2023-04-03T18:21:39.000Z</published>
-    <updated>2023-04-05T08:16:25.408Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;#Hello</summary>
         
       
     
