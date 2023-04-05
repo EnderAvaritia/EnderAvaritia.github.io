@@ -185,17 +185,16 @@ friends_link:
     #网站图片(可忽略不写)
     img: /images/ayer.png
   GitHub:
-    url: https://github.com/Shen-Yu
+    url: https://github.com/EnderAvaritia
     img: /images/github.png
-  码云:
-    url: https://gitee.com/shen-yu
-    img: /images/gitee.png
   Hexo官网:
     url: https://hexo.io
     img: /images/hexo.png
   Hexo图表插件:
     url: https://github.com/Shen-Yu/hexo-tag-chart
     img: /images/hexo-tag-chart.png
+  我:
+    img: ./images/me.png
 
 # 评论：1、Valine(推荐)；2、Gitalk；3、Twikoo; 4.MiniValine
 
